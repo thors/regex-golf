@@ -1,0 +1,18 @@
+#Description
+#Match all lines where the number of xes is prime
+#
+Maxscore=200
+#Positives:
+xx
+xxx
+xxxxx
+xxxxxxx
+xxxxxxxxxxx
+xxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxx
+#Negatives:
+x
+xxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxx
